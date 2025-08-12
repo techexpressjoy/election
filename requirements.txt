@@ -1,0 +1,8 @@
+pandas
+pdf2image
+google-generativeai
+pillow
+python-dotenv
+selenium
+openpyxl
+playwright
